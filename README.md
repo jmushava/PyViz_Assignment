@@ -1,4 +1,4 @@
-# PyViz_Assignment- 
+# PyViz_Assignment
 ## Pythonic Monopoly
 This dashboard presents a visual analysis of historical prices of house units,
 sale price per square foot and gross rent in San Francisco, California
